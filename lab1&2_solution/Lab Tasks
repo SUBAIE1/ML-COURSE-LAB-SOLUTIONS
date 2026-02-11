@@ -1,0 +1,33 @@
+Start by selecting one tabular dataset from an open-source platform.
+
+Your dataset should be in CSV or Excel format and should be suitable for a machine learning
+task such as prediction or pattern discovery.
+
+Once you select a dataset, your next task is to clearly define the machine learning problem.
+Ask yourself:
+
+• Is this a regression, classification, or clustering problem?
+• Is there a target variable?
+• What is the model expected to learn or predict?
+
+Write a short problem description in your own words.
+
+Create a Jupyter Notebook and load your dataset using Pandas.
+
+At this stage, you only need to:
+• Load the dataset
+• Display its shape
+• Preview the first few rows
+• Check column names and data types
+
+The final task in this lab is to create a methodology diagram that explains your machine learning
+workflow. This diagram should visually represent how the project would proceed from start to
+finish.
+
+Export your diagram as a PNG or PDF and save it in your GitHub repository.
+
+Your work for this lab must be submitted through GitHub only.
+Your GitHub repository must contain:
+• A short written summary describing the dataset and machine learning problem
+• A Jupyter Notebook that loads the dataset and displays basic information
+• The methodology diagram saved as an image or PDF
